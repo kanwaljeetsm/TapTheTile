@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EF2D2D</color>
+    <color name="colorPrimaryDark">@color/txtTitle</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background">#DDFDFD</color>
+    <color name="txtTitle">#951B1B</color>
+    <color name="txtOptions">#072E6A</color>
+    <color name="tileDefault">#FAFF58</color>
+    <color name="tileSelected">#2E5CCF</color>
+    <color name="highlightedTile">#C15041</color>
+    <color name="easy">#70D548</color>
+    <color name="medium">#E18F50</color>
+    <color name="hard">#E86D6D</color>
+    <color name="btnColor">#E8D740</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

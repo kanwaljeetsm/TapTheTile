@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">40sp</dimen>
+    <dimen name="subTitle">20sp</dimen>
+    <dimen name="options">30sp</dimen>
+    <dimen name="specials">50sp</dimen>
+    <dimen name="margin">2dp</dimen>
+    <dimen name="extraMargin">20dp</dimen>
+</resources>
